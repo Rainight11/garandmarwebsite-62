@@ -257,25 +257,10 @@ export default function GarMarRecords() {
                       with diverse vocal and production styles. Giarmo is known for his high energy, creative flows, and
                       versatility.
                     </p>
-                    <div className="giarmo-second-bio">
-                      “Music isn’t just an expression; it’s a conversation between the heart and the universe. It’s the
-                      space where silence speaks louder than words and sound can change the very air we breathe. To
-                      create is to connect with something greater than yourself.” — Giarmo
-                    </div>
+                    <div className="italic text-gray-400 text-center mt-8 mb-8 max-w-[800px] mx-auto leading-relaxed">
+  “Music isn’t just an expression; it’s a conversation between the heart and the universe. It’s the space where silence speaks louder than words and sound can change the very air we breathe. To create is to connect with something greater than yourself.” — Giarmo
+</div>
 
-                    <style jsx>{`
-  .giarmo-second-bio {
-    font-style: italic;
-    color: #ccc;
-    text-align: center;
-    margin-top: 2rem;
-    margin-bottom: 2rem;
-    max-width: 800px;
-    margin-left: auto;
-    margin-right: auto;
-    line-height: 1.6;
-  }
-`}</style>
 
                     <div className="space-y-4">
                       <div className="flex items-center gap-3 text-gray-300">
@@ -319,25 +304,10 @@ export default function GarMarRecords() {
                       experimenting with unique genres and vocal styles, as well as his complex wordplay and innovative
                       musical approach.
                     </p>
-                    <div className="giarmo-second-bio">
-                      “The soul of music is not in the notes we play, but in the silence we embrace between them. Every
-                      beat is a heartbeat, every lyric a whisper of truth, and every song a reflection of the world
-                      we’re still discovering.” — Marquess
-                    </div>
+                   <div className="italic text-gray-400 text-center mt-8 mb-8 max-w-[400px] mx-auto leading-relaxed">
+  “The soul of music is not in the notes we play, but in the silence we embrace between them. Every beat is a heartbeat, every lyric a whisper of truth, and every song a reflection of the world we’re still discovering.” — Marquess
+</div>
 
-                    <style jsx>{`
-  .giarmo-second-bio {
-    font-style: italic;
-    color: #ccc;
-    text-align: center;
-    margin-top: 2rem;
-    margin-bottom: 2rem;
-    max-width: 400px;
-    margin-left: auto;
-    margin-right: auto;
-    line-height: 1.6;
-  }
-`}</style>
 
                     <div className="space-y-4">
                       <div className="flex items-center gap-3 text-gray-300">
