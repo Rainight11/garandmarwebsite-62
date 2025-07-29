@@ -9,7 +9,10 @@ export const metadata: Metadata = {
   title: "Gar and Mar",
   description: "Reviving the Golden Era of Music - GAR & MAR Records",
   generator: "v0.dev",
-}
+icons: {
+    icon: "/favicon.ico", // Or .png or .svg — whatever you end up using
+  },
+};
 
 export default function RootLayout({
   children,
