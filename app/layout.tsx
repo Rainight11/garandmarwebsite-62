@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description: "Reviving the Golden Era of Music - GAR & MAR Records",
   generator: "v0.dev",
 icons: {
-    icon: "/public/favicon.ico", // Or .png or .svg — whatever you end up using
+    icon: "/public/Favicon.png",
   },
 };
 
