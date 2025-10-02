@@ -1,19 +1,6 @@
 "use client"
 import { useState, useEffect } from "react"
-import {
-  Music,
-  Play,
-  Users,
-  Mail,
-  Instagram,
-  Twitter,
-  Youtube,
-  MapPin,
-  Calendar,
-  Award,
-  Copy,
-  Check,
-} from "lucide-react"
+import { Music, Play, Users, Mail, Instagram, Youtube, MapPin, Calendar, Award, Copy, Check } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent } from "@/components/ui/card"
 
@@ -228,15 +215,6 @@ export default function GarMarRecords() {
                             <Instagram className="h-6 w-6" />
                           </Button>
                         </a>
-                        <a href="https://x.com/real_giarmo" target="_blank" rel="noopener noreferrer">
-                          <Button
-                            size="lg"
-                            variant="ghost"
-                            className="text-[#02ffe9] hover:text-white hover:bg-[#02ffe9]/20"
-                          >
-                            <Twitter className="h-6 w-6" />
-                          </Button>
-                        </a>
                         <a href="https://www.youtube.com/@Giarmo223" target="_blank" rel="noopener noreferrer">
                           <Button
                             size="lg"
@@ -258,9 +236,10 @@ export default function GarMarRecords() {
                       versatility.
                     </p>
                     <div className="italic text-gray-400 text-center mt-8 mb-8 max-w-[800px] mx-auto leading-relaxed">
-  “Music isn’t just an expression; it’s a conversation between the heart and the universe. It’s the space where silence speaks louder than words and sound can change the very air we breathe. To create is to connect with something greater than yourself.” — Giarmo
-</div>
-
+                      “Music isn’t just an expression; it’s a conversation between the heart and the universe. It’s the
+                      space where silence speaks louder than words and sound can change the very air we breathe. To
+                      create is to connect with something greater than yourself.” — Giarmo
+                    </div>
 
                     <div className="space-y-4">
                       <div className="flex items-center gap-3 text-gray-300">
@@ -304,10 +283,11 @@ export default function GarMarRecords() {
                       experimenting with unique genres and vocal styles, as well as his complex wordplay and innovative
                       musical approach.
                     </p>
-                   <div className="italic text-gray-400 text-center mt-8 mb-8 max-w-[400px] mx-auto leading-relaxed">
-  “The soul of music is not in the notes we play, but in the silence we embrace between them. Every beat is a heartbeat, every lyric a whisper of truth, and every song a reflection of the world we’re still discovering.” — Marquess
-</div>
-
+                    <div className="italic text-gray-400 text-center mt-8 mb-8 max-w-[400px] mx-auto leading-relaxed">
+                      “The soul of music is not in the notes we play, but in the silence we embrace between them. Every
+                      beat is a heartbeat, every lyric a whisper of truth, and every song a reflection of the world
+                      we’re still discovering.” — Marquess
+                    </div>
 
                     <div className="space-y-4">
                       <div className="flex items-center gap-3 text-gray-300">
